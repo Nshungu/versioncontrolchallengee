@@ -14,3 +14,5 @@ This repository contains beginner study notes for learning Git and GitHub versio
 
 ## How to Use This Repository
 Open the markdown files and review the notes and resources about Git and GitHub.
+## Repository Goals
+This project demonstrates how to use GitHub branches, commits, and pull requests in a professional workflow.

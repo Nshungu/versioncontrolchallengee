@@ -36,3 +36,13 @@ git push origin main
 - Helps collaboration
 - Allows backups online
 - Makes teamwork easier
+
+
+## Important Workflow Steps
+1. Create files
+2. Add changes
+3. Commit changes
+4. Push to GitHub
+5. Create branches
+6. Open pull requests
+7. Merge updates
